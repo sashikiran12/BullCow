@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BullCow</string>
+    <string name="save_them_from_being_killed_enter_only_4_digits_number">SAVE THEM FROM BEING KILLED ENTER ONLY 4 DIGITS NUMBER</string>
+    <string name="todo">TODO</string>
+    <string name="okay_save_them">Okay! Save Them</string>
+    <string name="your_guess">Your Guess</string>
+    <string name="guess">GUESS</string>
+    <string name="action_settings">action_settings</string>
+    >
+</resources>
